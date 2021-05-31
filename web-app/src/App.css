@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  color: black;
+}
+
+html,
+body,
+#root,
+#root > div {
+  height: 100%;
+  font-family: "proxima-nova";
+  font-weight: 800;
+}
+
+button:hover{
+cursor: pointer;
+}
