@@ -34,7 +34,7 @@ export default TopBar;
 
 const topBarStyle = StyleSheet.create({
   topBar: {
-    height: '100pt',
+    height: 100,
     backgroundColor: '#1753bc',
     flexDirection:"row"
   },
